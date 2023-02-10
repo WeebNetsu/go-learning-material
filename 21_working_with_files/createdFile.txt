@@ -1,0 +1,1 @@
+Hello! This is text being written into a file

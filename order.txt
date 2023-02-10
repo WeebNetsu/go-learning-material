@@ -1,0 +1,24 @@
+1_hello_world (+ project setup/workspaces + comments)
+2_variables (+ basic data types)
+5_constants
+3_math
+4_strings
+6_arrays
+7_slices [arrays]
+8_maps
+10_if_statements [maps]
+11_switch_statement [if statements, math]
+18_user_input [if statements]
+12_for_loops [if statements, math, arrays, maps]
+16_functions [if statements, math, for loops, slices]
+9_struct [arrays, functions]
+13_defer [functions, reading files, if statements]
+14_panic_recover [functions, defer, if statements]
+21_working_with_files [panic]
+15_pointers [structs]
+17_interfaces [pointers, structs, functions, if statements]
+19_goroutines [functions]
+20_channels [functions, goroutines, for loops] (tutorial is kindof empty, add more to it)
+22_custom_packages [functions, math]
+
+NOTE: this folder structure is no longer require, just do: go mod init github.com/weebnetsu/project_name

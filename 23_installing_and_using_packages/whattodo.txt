@@ -1,0 +1,9 @@
+go mod init github.com/weebnetsu/modexample
+touch main.go
+(github page: https://github.com/gofiber/fiber)
+go get -u github.com/gofiber/fiber/v2
+
+(show basic example of how you can now use the installed module (in main.go), also show the github page and how to get to the docs of that package)
+
+curl localhost:3000/
+(to do basic example of get request, also show example in POSTMAN so windows users can also follow along)
